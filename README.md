@@ -5,7 +5,7 @@ To create this website we have used the following sources/guides:
 
 - Temporal hosted in: [https://pages.github.com/](https://pages.github.com/)
 - Hosted instructions from: [http://smellpgh.org](http://smellpgh.org)
-- Website Template taken from: [https://smellmycity.org](https://smellmycity.org)
+- Website Template taken from: [https://github.com/learning-zone/website-templates](https://github.com/learning-zone/website-templates)
 
 ```bash
 sudo rm -rf /
