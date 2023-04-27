@@ -13,8 +13,7 @@ function sendMail() {
         document.getElementById("email_contact").value = "Your E-mail *";
         document.getElementById("message").value = "Your Message *";
         console.log(res);
-        alert("Your message has been sent successfully. \nWe will contact you soon. \n\nThank you!");
-        alert("name: {params.name} \nWe will contact you soon. \n\nThank you!");
+        alert("Your message has been sent successfully. \nWe will contact you soon. \n\nThank you!");        
     })
     .catch(err=>console.log(err));  
   }
